@@ -16,3 +16,4 @@ D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.ConsoleApp\obj\Debug\net8.0\refint\
 D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.ConsoleApp\obj\Debug\net8.0\CSVTree.ConsoleApp.pdb
 D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.ConsoleApp\obj\Debug\net8.0\CSVTree.ConsoleApp.genruntimeconfig.cache
 D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.ConsoleApp\obj\Debug\net8.0\ref\CSVTree.ConsoleApp.dll
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.ConsoleApp\obj\Debug\net8.0\CSVTree.ConsoleApp.sourcelink.json

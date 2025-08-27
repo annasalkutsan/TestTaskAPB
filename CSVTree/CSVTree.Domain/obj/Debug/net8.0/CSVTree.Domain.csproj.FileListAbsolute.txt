@@ -9,3 +9,4 @@ D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\CSVTree.Dom
 D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\refint\CSVTree.Domain.dll
 D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\CSVTree.Domain.pdb
 D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\ref\CSVTree.Domain.dll
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\CSVTree.Domain.sourcelink.json
