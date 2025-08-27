@@ -1,0 +1,11 @@
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\bin\Debug\net8.0\CSVTree.Domain.deps.json
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\bin\Debug\net8.0\CSVTree.Domain.dll
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\bin\Debug\net8.0\CSVTree.Domain.pdb
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\CSVTree.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\CSVTree.Domain.AssemblyInfoInputs.cache
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\CSVTree.Domain.AssemblyInfo.cs
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\CSVTree.Domain.csproj.CoreCompileInputs.cache
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\CSVTree.Domain.dll
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\refint\CSVTree.Domain.dll
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\CSVTree.Domain.pdb
+D:\dumb\projects\TestTaskAPB\CSVTree\CSVTree.Domain\obj\Debug\net8.0\ref\CSVTree.Domain.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVTree.ConsoleApp", "CSVTree.ConsoleApp\CSVTree.ConsoleApp.csproj", "{3021C20B-D703-4E47-8D6C-235A9D1E13E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVTree.Domain", "CSVTree.Domain\CSVTree.Domain.csproj", "{88E8E5AD-FA04-405E-8439-C98DD2200D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3021C20B-D703-4E47-8D6C-235A9D1E13E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3021C20B-D703-4E47-8D6C-235A9D1E13E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3021C20B-D703-4E47-8D6C-235A9D1E13E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3021C20B-D703-4E47-8D6C-235A9D1E13E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E8E5AD-FA04-405E-8439-C98DD2200D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E8E5AD-FA04-405E-8439-C98DD2200D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E8E5AD-FA04-405E-8439-C98DD2200D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E8E5AD-FA04-405E-8439-C98DD2200D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
